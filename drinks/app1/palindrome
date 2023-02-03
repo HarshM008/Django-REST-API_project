@@ -1,0 +1,26 @@
+# a = 'amama'
+
+
+
+# def palindrome():
+#     n = len(a)
+#     for i in range(0,n):
+#         if a[i] == a[n-i-1]:
+#             return True
+#         else:
+#             return False
+
+# c = palindrome()
+# print(c)
+
+
+x = 'januj'
+def palindrome3():
+    i=0
+    while i<=(len(x)-1):
+        print(i)
+        i+= 1
+        
+c = palindrome3()
+print(c)
+
